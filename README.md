@@ -10,5 +10,7 @@ Dataset trained on: [Roboflow mask wearing dataset](https://public.roboflow.com/
 
 The model used was [Faster R-CNN ResNet50 V1 640x640](http://download.tensorflow.org/models/object_detection/tf2/20200711/faster_rcnn_resnet50_v1_640x640_coco17_tpu-8.tar.gz)
 
+Edit 1: `Yolov3.ipynb` is a model trained using Yolov3 on the same dataset. Data cleaning and preparation scripts were used from [here](https://github.com/sniper0110/YOLOv3). 
+
 
 
